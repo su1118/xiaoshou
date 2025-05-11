@@ -1,0 +1,23 @@
+{
+  "CL0001": {
+    "name": "棒球外套",
+    "code": "CL0001",
+    "price": 500,
+    "center": 85,
+    "warehouse": 105
+  },
+  "CU0003": {
+    "name": "保溫杯",
+    "code": "CU0003",
+    "price": 300,
+    "center": 0,
+    "warehouse": 8
+  },
+  "CU1083": {
+    "name": "啤酒杯",
+    "code": "CU1083",
+    "price": 150,
+    "center": 50,
+    "warehouse": 50
+  }
+}
