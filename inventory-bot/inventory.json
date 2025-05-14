@@ -1,23 +1,616 @@
 {
-  "CL0001": {
-    "name": "棒球外套",
-    "code": "CL0001",
-    "price": 500,
-    "center": 85,
-    "warehouse": 105
-  },
-  "CU0003": {
-    "name": "保溫杯",
-    "code": "CU0003",
-    "price": 300,
+  "CL0112": {
+    "name": "成功燈塔外套(M)",
+    "code": "CL0112",
+    "price": 900,
     "center": 0,
-    "warehouse": 8
+    "warehouse": 0
   },
-  "CU1083": {
-    "name": "啤酒杯",
-    "code": "CU1083",
-    "price": 150,
-    "center": 50,
-    "warehouse": 50
+  "CL0113": {
+    "name": "成功燈塔外套(L)",
+    "code": "CL0113",
+    "price": 900,
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0114": {
+    "name": "成功燈塔外套(XL)",
+    "code": "CL0114",
+    "price": 900,
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0211": {
+    "name": "成功排汗衫(S)",
+    "code": "CL0211",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0212": {
+    "name": "成功排汗衫(M)",
+    "code": "CL0211",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0213": {
+    "name": "成功排汗衫(L)",
+    "code": "CL0213",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0214": {
+    "name": "成功排汗衫(XL)",
+    "code": "CL0214",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0215": {
+    "name": "成功排汗衫(2XL)",
+    "code": "CL0215",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0216": {
+    "name": "成功排汗衫(3XL)",
+    "code": "CL0211",
+    "price": "750",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0312": {
+    "name": "成功復古紅字(M)",
+    "code": "CL0312",
+    "price": "200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0316": {
+    "name": "成功復古紅字(3XL)",
+    "code": "CL0316",
+    "price": "200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0411": {
+    "name": "成功三代校徽T恤(S)",
+    "code": "CL0411",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0412": {
+    "name": "成功三代校徽T恤(M)",
+    "code": "CL0412",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0413": {
+    "name": "成功三代校徽T恤(L)",
+    "code": "CL0413",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0414": {
+    "name": "成功三代校徽T恤(XL)",
+    "code": "CL0414",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0511": {
+    "name": "成功聯名CP短T(S)",
+    "code": "CL0511",
+    "price": "600",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0513": {
+    "name": "成功聯名CP短T(L)",
+    "code": "CL0513",
+    "price": "600",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0515": {
+    "name": "成功聯名CP短T(2XL)",
+    "code": "CL0515",
+    "price": "600",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0614": {
+    "name": "成功經典刺繡T恤(XL)",
+    "code": "CL0614",
+    "price": "800",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0615": {
+    "name": "成功經典刺繡T恤(2XL)",
+    "code": "CL0615",
+    "price": "800",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0616": {
+    "name": "成功經典刺繡T恤(3XL)",
+    "code": "CL0616",
+    "price": "800",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0714": {
+    "name": "成功運動短褲(XL)",
+    "code": "CL0714",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0715": {
+    "name": "成功運動短褲(2XL)",
+    "code": "CL0715",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0716": {
+    "name": "成功運動短褲(3XL)",
+    "code": "CL0716",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0718": {
+    "name": "成功運動短褲(5XL)",
+    "code": "CL0718",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0811": {
+    "name": "成功紀念棒球外套(CG)(S)",
+    "code": "CL0811",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0812": {
+    "name": "成功紀念棒球外套(CG)(M)",
+    "code": "CL0812",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0813": {
+    "name": "成功紀念棒球外套(CG)(L)",
+    "code": "CL0813",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0814": {
+    "name": "成功紀念棒球外套(CG)(XL)",
+    "code": "CL0814",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0815": {
+    "name": "成功紀念棒球外套(CG)(2XL)",
+    "code": "CL0815",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0816": {
+    "name": "成功紀念棒球外套(CG)(3XL)",
+    "code": "CL0816",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0817": {
+    "name": "成功紀念棒球外套(CG)(4XL)",
+    "code": "CL0817",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0818": {
+    "name": "成功紀念棒球外套(CG)(5XL)",
+    "code": "CL0818",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0821": {
+    "name": "成功紀念棒球外套(CK)(S)",
+    "code": "CL0821",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0822": {
+    "name": "成功紀念棒球外套(CK)(M)",
+    "code": "CL0822",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0823": {
+    "name": "成功紀念棒球外套(CK)(L)",
+    "code": "CL0823",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0824": {
+    "name": "成功紀念棒球外套(CK)(XL)",
+    "code": "CL0824",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0825": {
+    "name": "成功紀念棒球外套(CK)(2XL)",
+    "code": "CL0825",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0826": {
+    "name": "成功紀念棒球外套(CK)(3XL)",
+    "code": "CL0826",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0827": {
+    "name": "成功紀念棒球外套(CK)(4XL)",
+    "code": "CL0827",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CL0828": {
+    "name": "成功紀念棒球外套(CK)(5XL)",
+    "code": "CL0828",
+    "price": "1300",
+    "center": 0,
+    "warehouse": 0
+  },
+
+  "BA0110": {
+    "name": "成功百搭牛津包(黑)",
+    "code": "BA0110",
+    "price": "1100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "BA0120": {
+    "name": "成功百搭牛津包(藍)",
+    "code": "BA0120",
+    "price": "1100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "BA0210": {
+    "name": "城市電腦包",
+    "code": "BA0210",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "BA0310": {
+    "name": "成功機能後背包",
+    "code": "BA0310",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "BA0410": {
+    "name": "復古帆布小書包",
+    "code": "BA0410",
+    "price": "600",
+    "center": 0,
+    "warehouse": 0
+  },
+
+  "HA0110": {
+    "name": "成功高中帽",
+    "code": "HA0110",
+    "price": "300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "HA0210": {
+    "name": "成功中學帽",
+    "code": "HA0210",
+    "price": "300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "HA0310": {
+    "name": "成功CG棒球帽",
+    "code": "HA0310",
+    "price": "200",
+    "center": 0,
+    "warehouse": 0
+  },
+
+  "CU0110": {
+    "name": "聯名運動水壺(橘)",
+    "code": "CU0110",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0120": {
+    "name": "聯名運動水壺(紫)",
+    "code": "CU0120",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0130": {
+    "name": "聯名運動水壺(綠)",
+    "code": "CU0130",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0140": {
+    "name": "聯名運動水壺(藍)",
+    "code": "CU0140",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0210": {
+    "name": "金爵玻璃杯",
+    "code": "CU0210",
+    "price": "200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0310": {
+    "name": "Coleman聯名保溫杯(淺藍)",
+    "code": "CU0310",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0320": {
+    "name": "Coleman聯名保溫杯(深藍)",
+    "code": "CU0320",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0330": {
+    "name": "Coleman聯名保溫杯(黑)",
+    "code": "CU0330",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "CU0410": {
+    "name": "成功校歌馬克杯",
+    "code": "CU0410",
+    "price": "300",
+    "center": 0,
+    "warehouse": 0
+  },
+
+  "MA0110":{
+    "name": "成功校徽磁鐵(校友會)",
+    "code": "MA0110",
+    "price": "50",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0120":{
+    "name": "成功校徽磁鐵(北二中)",
+    "code": "MA0120",
+    "price": "50",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0130":{
+    "name": "成功校徽磁鐵(高中)",
+    "code": "MA0130",
+    "price": "50",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0210":{
+    "name": "成功百週年紀念徽章",
+    "code": "MA0210",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0310":{
+    "name": "成功校徽徽章(中學藍)",
+    "code": "MA0310",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0320":{
+    "name": "成功校徽徽章(高中藍)",
+    "code": "MA0320",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "MA0330":{
+    "name": "成功校徽徽章(玫瑰金)",
+    "code": "MA0330",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+
+  "AC0110":{
+    "name": "百週年紀念帆布袋(白)",
+    "code": "AC0110",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0120":{
+    "name": "百週年紀念帆布袋(黑)",
+    "code": "AC0120",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0210":{
+    "name": "成功紀念毛巾(英文)",
+    "code": "AC0210",
+    "price": "400",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0220":{
+    "name": "成功紀念毛巾(青年)",
+    "code": "AC0220",
+    "price": "400",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0310":{
+    "name": "成功背包造型悠遊卡",
+    "code": "AC0310",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0410":{
+    "name": "成功青年鑰匙圈",
+    "code": "AC0410",
+    "price": "150",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0510":{
+    "name": "成功紀念郵票",
+    "code": "AC0510",
+    "price": "300",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0610":{
+    "name": "成功青年L夾",
+    "code": "AC0610",
+    "price": "20",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0710":{
+    "name": "成功伸縮扣證件夾",
+    "code": "AC0710",
+    "price": "200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0810":{
+    "name": "成功檜木手機架",
+    "code": "AC0810",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC0910":{
+    "name": "成功金屬行李吊牌",
+    "code": "AC0910",
+    "price": "100",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1010":{
+    "name": "成功籃球",
+    "code": "AC1010",
+    "price": "1200",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1110":{
+    "name": "成功上河圖L夾",
+    "code": "AC1110",
+    "price": "50",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1210":{
+    "name": "三代校徽杯墊",
+    "code": "AC1210",
+    "price": "150",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1310":{
+    "name": "成功抱枕(淺藍)",
+    "code": "AC1310",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1320":{
+    "name": "成功抱枕(深藍)",
+    "code": "AC1320",
+    "price": "500",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1410":{
+    "name": "燙印行李吊牌(新)",
+    "code": "AC1410",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1420":{
+    "name": "燙印行李吊牌(舊)",
+    "code": "AC1420",
+    "price": "350",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1510":{
+    "name": "聯名紀念筆(鋼珠筆)",
+    "code": "AC1510",
+    "price": "2000",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1520":{
+    "name": "聯名紀念筆(紅)",
+    "code": "AC1520",
+    "price": "1000",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1530":{
+    "name": "聯名紀念筆(藍)",
+    "code": "AC1530",
+    "price": "1000",
+    "center": 0,
+    "warehouse": 0
+  },
+  "AC1610":{
+    "name": "成功回憶吊牌",
+    "code": "AC1610",
+    "price": "400",
+    "center": 0,
+    "warehouse": 0
   }
 }
