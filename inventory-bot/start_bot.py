@@ -4,7 +4,7 @@ import requests
 import os
 
 # ======= 設定你的 LINE Channel Access Token =======
-LINE_CHANNEL_ACCESS_TOKEN = "YOUR_CHANNEL_ACCESS_TOKEN"
+LINE_CHANNEL_ACCESS_TOKEN = "wtWKP5aIRl79VjNO0LueW3V+c0C4IhTUGvDlwRe2TKwBwSGwrWfP35mgSKOU7Ie2dn3G9l3b85HZxovXfliCLAQwJa9B/1omWrs8hyJOftuBydYTTEt7bZP8RPmirYWC09/3rT/AH7vfXldcOJVjHgdB04t89/1O/w1cDnyilFU="
 # ================================================
 
 # 1. 啟動 ngrok
